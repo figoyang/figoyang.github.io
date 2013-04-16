@@ -5,5 +5,6 @@ tagline: haha
 ---
 {% include JB/setup %}
 
-Hello world!
+* 你好，世界！
+* Hello world!
 
